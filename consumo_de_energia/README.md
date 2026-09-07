@@ -22,13 +22,12 @@ Abra o terminal do seu computador (ou o terminal do VS Code) e execute o comando
 ```bash
 git clone https://github.com/vaniasouza-hub/Projetos.git
 
- Abra o VS Code.
- Vá em **File > Open Folder** e selecione a pasta do projeto clonado.
- Abra o terminal integrado do VS Code (`Ctrl + '`).
- Execute o arquivo principal do programa rodando o seguinte comando:
+Abra o VS Code.
+    Vá em **File > Open Folder** e selecione a pasta do projeto clonado.
+    Abra o terminal integrado do VS Code (``Ctrl + ``).
+    Execute o arquivo principal do programa rodando o seguinte comando:
 ```bash
 python app.py
-
 
 ---
 
