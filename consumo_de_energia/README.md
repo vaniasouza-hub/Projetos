@@ -27,9 +27,9 @@ Abra o VS Code.
     Abra o terminal integrado do VS Code (``Ctrl + ``).
     Execute o arquivo principal do programa rodando o seguinte comando:
 ```bash
-python app.py
 
----
+python app.py
+```
 
 ## 🛠️ Tecnologias Utilizada
 
